@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bekundan
+- 👋 Hi, I’m kundan gupta
 - 👀 I’m interested in Backend dev
 - 🌱 I’m currently learning on MERN stack dev...
 - 💞️ I’m looking for a Internship on Mern
