@@ -1,7 +1,7 @@
 - 👋 Hi, I’m kundan gupta
-- 👀 I’m interested in Backend dev
-- 🌱 I’m currently learning on MERN stack dev...
-- 💞️ I’m looking for a Internship on Mern
+- 👀 I’m interested in applying my skills and knowledge.
+- 🌱 I’m currently freshman in MERN stack dev...
+- 💞️ I’m looking for a Internship/job on Mern
 - 📫 How to reach me { gkundan525@gmail.com }
 -  
 
